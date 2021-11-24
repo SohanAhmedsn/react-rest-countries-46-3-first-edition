@@ -1,0 +1,13 @@
+.country{
+    background-color: #ffffff;
+    color:#ff00cc;
+    border: 5px solid crimson;
+    border-radius: 19px;
+    margin: 10px;
+    padding: 5px;
+
+
+}
+.country img{
+    width: 100px;
+}
